@@ -1,0 +1,7 @@
+SPF
+nslookup -type=txt geis.cz
+
+DMARC
+nslookup -type=txt _dmarc.geis.cz
+
+DKIM
