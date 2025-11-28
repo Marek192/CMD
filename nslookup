@@ -5,3 +5,4 @@ DMARC
 nslookup -type=txt _dmarc.geis.cz
 
 DKIM
+nslookup -type=txt selector1._domainkey.geis.cz
